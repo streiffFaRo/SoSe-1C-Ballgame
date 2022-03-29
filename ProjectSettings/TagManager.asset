@@ -6,6 +6,7 @@ TagManager:
   tags:
   - ClickArea
   - DeathZone
+  - AudioManager
   layers:
   - Default
   - TransparentFX
